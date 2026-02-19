@@ -156,10 +156,10 @@ Screenshots :
 <img width="362" height="743" alt="Class Diagram" src="https://github.com/user-attachments/assets/ad99ae04-f960-4f73-8f63-125bc9c7c413" />
 
 
-<img width="1481" height="183" alt="UseCase Diagram" src="https://github.com/user-attachments/assets/0b8edb89-746c-4d51-aa04-6442f478cfa8" />
-
-
 <img width="576" height="414" alt="Sequence Diagram" src="https://github.com/user-attachments/assets/30070106-93f5-4387-abaa-66cba618eb5a" />
+
+
+<img width="1481" height="183" alt="UseCase Diagram" src="https://github.com/user-attachments/assets/0b8edb89-746c-4d51-aa04-6442f478cfa8" />
 
 ---
 
