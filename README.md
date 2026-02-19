@@ -149,6 +149,8 @@ Screenshots :
 <img width="1919" height="867" alt="Screenshot 2026-02-20 032720" src="https://github.com/user-attachments/assets/e728778d-0b86-41ac-ac62-d4d3a4e022de" />
 
 
+<img width="883" height="735" alt="Screenshot 2026-02-20 033949" src="https://github.com/user-attachments/assets/95dd3061-f4a4-4020-b22f-b9a18ad60b93" />
+
 ---
 
 ## 📊 UML Diagrams
