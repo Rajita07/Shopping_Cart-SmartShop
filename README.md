@@ -133,7 +133,21 @@ You can configure admin credentials directly in the database or backend.
 * Cart Page
 * Admin Dashboard
 
-(Add screenshots here)
+Screenshots :
+<img width="1919" height="865" alt="Screenshot 2026-02-20 032422" src="https://github.com/user-attachments/assets/2dee0db0-ea74-4bf6-8759-1f2ae61b805e" />
+
+
+<img width="1917" height="873" alt="Screenshot 2026-02-20 032444" src="https://github.com/user-attachments/assets/57c28558-7817-499d-843c-401b51738442" />
+
+
+<img width="1899" height="865" alt="Screenshot 2026-02-20 032613" src="https://github.com/user-attachments/assets/47a4227b-8555-4846-be7e-c7c3cdde1fc9" />
+
+
+<img width="1915" height="867" alt="Screenshot 2026-02-20 032327" src="https://github.com/user-attachments/assets/8c899c8a-4c91-4b14-8142-571d5d01bb05" />
+
+
+<img width="1919" height="867" alt="Screenshot 2026-02-20 032720" src="https://github.com/user-attachments/assets/e728778d-0b86-41ac-ac62-d4d3a4e022de" />
+
 
 ---
 
@@ -141,7 +155,9 @@ You can configure admin credentials directly in the database or backend.
 
 <img width="362" height="743" alt="Class Diagram" src="https://github.com/user-attachments/assets/ad99ae04-f960-4f73-8f63-125bc9c7c413" />
 
+
 <img width="1481" height="183" alt="UseCase Diagram" src="https://github.com/user-attachments/assets/0b8edb89-746c-4d51-aa04-6442f478cfa8" />
+
 
 <img width="576" height="414" alt="Sequence Diagram" src="https://github.com/user-attachments/assets/30070106-93f5-4387-abaa-66cba618eb5a" />
 
